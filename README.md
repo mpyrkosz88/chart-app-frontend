@@ -1,8 +1,10 @@
 Simple React App with charts.
 Data is collected via websocket from backend.
+
 You can find backend here https://github.com/mpyrkosz88/chart-app-backend
 
 Chart package https://react-google-charts.com/
+
 Grid Material-UI https://material-ui.com/
 
 
