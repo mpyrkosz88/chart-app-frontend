@@ -1,4 +1,5 @@
 Simple React App with charts.
+
 Data is collected via websocket from backend.
 
 You can find backend here https://github.com/mpyrkosz88/chart-app-backend

@@ -1,6 +1,5 @@
-import ChartContainer from './ChartContainer';
+import ChartContainer from './containers/ChartContainer';
 
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
